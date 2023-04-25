@@ -1,0 +1,69 @@
+{
+    "keyboard_name": "core_01",
+    "keyboard": "core_01",
+    "url": "https://makerluis.com",
+    "maintainer": "luisdamed",
+    "width": 3,
+    "height": 3,
+    "keymap": "default",
+    "matrix":{
+        "rows": 3,
+        "cols": 3
+    },
+    "layouts": {
+        "LAYOUT_horizontal": {
+            "layout": [
+                {
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "x": 2,
+                    "y": 0
+                },
+                {
+                    "x": 0,
+                    "y": 1
+                },
+                {
+                    "x": 1,
+                    "y": 1
+                },
+                {
+                    "x": 2,
+                    "y": 1
+                },
+                {
+                    "x": 0,
+                    "y": 2
+                },
+                {
+                    "x": 1,
+                    "y": 2
+                },
+                {
+                    "x": 2,
+                    "y": 2
+                }
+            ]
+        }
+    },
+
+    "layers": [
+        [
+            "KC_F13",
+            "KC_F14",
+            "KC_F15",
+            "KC_F16",
+            "KC_F17",
+            "KC_F18",
+            "KC_F19",
+            "KC_F20",
+            "KC_F21"
+        ]
+    ]
+}
